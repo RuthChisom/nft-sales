@@ -1,6 +1,4 @@
-## Foundry
-
-**Using a simple escrow smart contract, write mocks for unit tests and Fuzz testing of the smart contract.
+## Unit and Fuzz testing of a simple escrow smart contract
 
 ### Build
 
